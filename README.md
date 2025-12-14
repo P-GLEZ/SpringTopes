@@ -1,2 +1,1 @@
-I made this using Python 3.14, Pygame-ce, and Numpy.
-I've never used github before- does this work?
+Runs on Python 3.14 with Pygame-ce, and Numpy.
